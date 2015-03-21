@@ -1,0 +1,35 @@
+{
+  "name": "FindMyHouse",
+  "version": "1.0.0",
+  "description": "toDo",
+  "main": "index.js",
+  "scripts": {
+    "test": "to do"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DupontC/FindMyHouse.git"
+  },
+  "keywords": [
+    "to",
+    "do"
+  ],
+  "author": "cyril.dupont61@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DupontC/FindMyHouse/issues"
+  },
+  "homepage": "https://github.com/DupontC/FindMyHouse",
+  "dependencies": {
+     "express": ">=3.0.0rc1",
+     "crypto":"*",
+     "client-sessions": "*",
+     "body-parser": "*",
+     "mongoose": "*",
+     "log4js": "*",
+     "helmet":"*"
+   },
+   "scripts": {
+     "start": "node index.js"
+   }
+}
