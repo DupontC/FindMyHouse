@@ -27,7 +27,9 @@
      "body-parser": "*",
      "mongoose": "*",
      "log4js": "*",
-     "helmet":"*"
+     "helmet":"*",
+     "curl":"*",
+     "jsdom":"*"
    },
    "scripts": {
      "start": "node index.js"
